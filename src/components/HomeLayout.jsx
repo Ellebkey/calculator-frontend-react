@@ -14,7 +14,6 @@ export const HomeLayout = () => {
     <div>
       <AppBar
         pages={[
-          { label: "Sign Up", path: "/signup" },
           { label: "Login", path: "/login" }
         ]}
       />
